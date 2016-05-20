@@ -17,4 +17,3 @@ main()
   printf("%s\n", str);
   fclose(fd);
 }
-
